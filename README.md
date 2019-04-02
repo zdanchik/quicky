@@ -1,1 +1,1 @@
-# quicky
+# quicky templater
