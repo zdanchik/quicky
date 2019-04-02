@@ -1,0 +1,11 @@
+{
+    "name": "zdanchik/quicky",
+    "type": "library",
+    "description": "quicky template engine",
+    "license": "Apache License 2.0",
+    "keywords": ["quicky"],
+    "homepage": "https://github.com/zdanchik/quicky",
+    "autoload": {
+        "psr-4": { "Quicky\\": "" }
+    }
+}
